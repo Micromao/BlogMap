@@ -1,0 +1,16 @@
+E:\小伟\自己的测试项目\tiandiMap\tiandiMap\bin\tiandiMap.dll.config
+E:\小伟\自己的测试项目\tiandiMap\tiandiMap\bin\tiandiMap.dll
+E:\小伟\自己的测试项目\tiandiMap\tiandiMap\bin\tiandiMap.pdb
+E:\小伟\自己的测试项目\tiandiMap\tiandiMap\obj\Debug\tiandiMap.dll
+E:\小伟\自己的测试项目\tiandiMap\tiandiMap\obj\Debug\tiandiMap.pdb
+E:\小伟\自己的测试项目\tiandiMap\tiandiMap\obj\Debug\tiandiMap.csprojResolveAssemblyReference.cache
+E:\小伟\自己的测试项目\testMap\tiandiMap\bin\tiandiMap.dll.config
+E:\小伟\自己的测试项目\testMap\tiandiMap\bin\tiandiMap.dll
+E:\小伟\自己的测试项目\testMap\tiandiMap\bin\tiandiMap.pdb
+E:\小伟\自己的测试项目\testMap\tiandiMap\obj\Debug\tiandiMap.dll
+E:\小伟\自己的测试项目\testMap\tiandiMap\obj\Debug\tiandiMap.pdb
+E:\小伟\自己的测试项目\navigationMap\tiandiMap\bin\tiandiMap.dll.config
+E:\小伟\自己的测试项目\navigationMap\tiandiMap\bin\tiandiMap.dll
+E:\小伟\自己的测试项目\navigationMap\tiandiMap\bin\tiandiMap.pdb
+E:\小伟\自己的测试项目\navigationMap\tiandiMap\obj\Debug\tiandiMap.dll
+E:\小伟\自己的测试项目\navigationMap\tiandiMap\obj\Debug\tiandiMap.pdb

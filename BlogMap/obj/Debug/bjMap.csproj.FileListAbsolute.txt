@@ -1,0 +1,5 @@
+C:\Users\Win8\Desktop\2016项目\基于ArcGIS的油田测录井基础应用---950\bjMap\bjMap\bin\bjMap.dll
+C:\Users\Win8\Desktop\2016项目\基于ArcGIS的油田测录井基础应用---950\bjMap\bjMap\bin\bjMap.pdb
+C:\Users\Win8\Desktop\2016项目\基于ArcGIS的油田测录井基础应用---950\bjMap\bjMap\obj\Debug\bjMap.dll
+C:\Users\Win8\Desktop\2016项目\基于ArcGIS的油田测录井基础应用---950\bjMap\bjMap\obj\Debug\bjMap.pdb
+C:\Users\Win8\Desktop\2016项目\基于ArcGIS的油田测录井基础应用---950\bjMap\bjMap\bin\NaturalBreak.dll

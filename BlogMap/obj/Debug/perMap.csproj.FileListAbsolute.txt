@@ -1,0 +1,5 @@
+C:\Users\Win8\Desktop\2016项目\云南省普洱市标注系统---5000（三周，一周出大概界面效果）\perMap\perMap\bin\perMap.dll
+C:\Users\Win8\Desktop\2016项目\云南省普洱市标注系统---5000（三周，一周出大概界面效果）\perMap\perMap\bin\perMap.pdb
+C:\Users\Win8\Desktop\2016项目\云南省普洱市标注系统---5000（三周，一周出大概界面效果）\perMap\perMap\obj\Debug\perMap.dll
+C:\Users\Win8\Desktop\2016项目\云南省普洱市标注系统---5000（三周，一周出大概界面效果）\perMap\perMap\obj\Debug\perMap.pdb
+C:\Users\Win8\Desktop\2016项目\云南省普洱市标注系统---5000（三周，一周出大概界面效果）\perMap\perMap\obj\Debug\perMap.csprojResolveAssemblyReference.cache
